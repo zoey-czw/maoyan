@@ -1,0 +1,1039 @@
+[{
+        "id": "11492",
+        "title": "东影南国国际影城（福永唐美店）",
+        "price": "29",
+        "location": "宝安区凤塘大道523号唐美商场4楼",
+        "distance": "1.2km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "vipTag": "折扣卡"
+            },
+            {
+                "hallType": "CGS中国巨幕厅"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减2元"
+    },
+    {
+        "id": "13046",
+        "title": "东海国际影城",
+        "price": "23",
+        "location": "宝安区福永街道桥头社区永福路120号（东海百货4楼）",
+        "distance": "1.2km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "23768",
+        "title": "太平洋影城（深圳同泰时代广场店）",
+        "price": "36.9",
+        "location": "宝安区福永街道同泰时代广场4层",
+        "distance": "2.1km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "vipTag": "折扣卡"
+            },
+            {
+                "hallType": "CGS中国巨幕厅"
+            },
+            {
+                "hallType": "杜比全景声厅"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减2元"
+    },
+    {
+        "id": "28388",
+        "title": "中影泰得影城（福永意库店）",
+        "price": "28",
+        "location": "宝安区福永意库（近福永地铁站D出口）",
+        "distance": "2.9km",
+        "lable": [{
+            "allowRefund": "退"
+        }],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "9627",
+        "title": "星美国际影商城（凤凰世纪商业广场店）",
+        "price": null,
+        "location": "宝安区大洋路178号凤凰世纪商业广场首层（好万年超市对面）",
+        "distance": "3.2km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "24021",
+        "title": "中影星美明星国际影城（福永康之宝店）",
+        "price": "23",
+        "location": "宝安区福永街道康之宝超级广场三楼",
+        "distance": "3.8km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减2元"
+    },
+    {
+        "id": "15406",
+        "title": "幕森国际影城",
+        "price": "23",
+        "location": "宝安区福永街道128号怀德村委旁汇隆城5层",
+        "distance": "3.9km",
+        "lable": [{
+            "vipTag": "折扣卡"
+        }],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减4元"
+    },
+    {
+        "id": "2424",
+        "title": "中影UL城市影院（福永店）",
+        "price": null,
+        "location": "宝安区福永大道国惠康百货4楼",
+        "distance": "3.9km",
+        "lable": [{
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减2元"
+    },
+    {
+        "id": "16703",
+        "title": "百川影城IMAX（新沙天虹店）",
+        "price": "39.9",
+        "location": "宝安区沙井街道西环路2105号天虹商场7楼",
+        "distance": "4km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            },
+            {
+                "hallType": "IMAX厅"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减2元"
+    },
+    {
+        "id": "7982",
+        "title": "中影飞尚百誉国际影城",
+        "price": "39.9",
+        "location": "宝安区沙井街道沙井路168号中熙广场沙井京基百纳广场五L5-502、六楼L6-602",
+        "distance": "4km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减2元"
+    },
+    {
+        "id": "24103",
+        "title": "益田国际影城（福永店）",
+        "price": "38.9",
+        "location": "宝安区福永街道永泰西路益田假日天地二楼",
+        "distance": "4.4km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            },
+            {
+                "hallType": "杜比全景声厅"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减2元"
+    },
+    {
+        "id": "13729",
+        "title": "中影德金影院福永店",
+        "price": "28",
+        "location": "宝安区福永街道翠岗公园群艺馆一楼",
+        "distance": "4.5km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "2508",
+        "title": "金逸影城（沙井店）",
+        "price": null,
+        "location": "宝安区沙井街道民主大道岁宝百货3楼",
+        "distance": "4.7km",
+        "lable": [{
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减4元"
+    },
+    {
+        "id": "8620",
+        "title": "中影DY影城（沙井店）",
+        "price": "33",
+        "location": "宝安区沙井街道中心路34-1号形色城购物广场6楼（市民广场旁，老天虹对面）",
+        "distance": "4.8km",
+        "lable": [{
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            },
+            {
+                "hallType": "杜比全景声厅"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减4元"
+    },
+    {
+        "id": "16901",
+        "title": "环球国际影城（福永凤凰山店）",
+        "price": "28",
+        "location": "宝安区福永街道凤凰社区凤凰御林山景F3-03",
+        "distance": "4.9km",
+        "lable": [{
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减4元"
+    },
+    {
+        "id": "25716",
+        "title": "中影星火巨幕影城",
+        "price": "23",
+        "location": "宝安区沙井街道西荟城购物广场2期三楼",
+        "distance": "5km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            },
+            {
+                "hallType": "杜比全景声厅"
+            },
+            {
+                "hallType": "4K厅"
+            },
+            {
+                "hallType": "4D厅"
+            },
+            {
+                "hallType": "巨幕厅"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "25644",
+        "title": "华夏星光国际影城（新桥店）",
+        "price": "26.9",
+        "location": "宝安区新桥街道中心路36号新桥文化艺术中心二层（市民广场旁）",
+        "distance": "5.2km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减2元"
+    },
+    {
+        "id": "18",
+        "title": "完美世界影城（17.5沙井店）",
+        "price": "26.9",
+        "location": "宝安区（原17.5影城）沙井街道新沙路与中心路交汇处华润万家4楼A",
+        "distance": "5.2km",
+        "lable": [{
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减10元"
+    },
+    {
+        "id": "12882",
+        "title": "华夏星光国际影城（沙井店）",
+        "price": "24.9",
+        "location": "宝安区沙井街道中心路深圳书城（华润万佳旁50米）",
+        "distance": "5.5km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            },
+            {
+                "hallType": "杜比全景声厅"
+            },
+            {
+                "hallType": "4K厅"
+            },
+            {
+                "hallType": "巨幕厅"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减2元"
+    },
+    {
+        "id": "11117",
+        "title": "ONE影城（沙井店）",
+        "price": "23.9",
+        "location": "宝安区上南大街（联城购物广场4楼，原东影南国影城）",
+        "distance": "5.8km",
+        "lable": [{
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减2元"
+    },
+    {
+        "id": "15959",
+        "title": "集鸿发国际影城",
+        "price": null,
+        "location": "宝安区沙井街道大埔路惠尔乐百货3楼",
+        "distance": "7.2km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减2元"
+    },
+    {
+        "id": "17068",
+        "title": "传奇影城（后瑞店）",
+        "price": "28",
+        "location": "宝安区西乡街道后瑞地铁站B出口100处（壹航城购物中心T2栋）",
+        "distance": "8.2km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "8259",
+        "title": "星晨国际影城（永辉店）",
+        "price": "28",
+        "location": "宝安区松岗松明大道星际家园永辉超市3楼（汽车导航到复亚医院或星际家园）",
+        "distance": "8.8km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "15855",
+        "title": "凤凰国际影城",
+        "price": "28",
+        "location": "宝安区西乡街道宝安大道5010号西部硅谷（后瑞地铁站旁）B座1楼",
+        "distance": "8.9km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "hallType": "杜比全景声厅"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "15428",
+        "title": "中影UL城市影城（黄田店）",
+        "price": "28",
+        "location": "宝安区西乡街道长园路28号昌宏百货四楼",
+        "distance": "9.2km",
+        "lable": [{
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "8576",
+        "title": "中影星河电影城（松岗店）",
+        "price": "28",
+        "location": "宝安区松岗街道东方大道C区喜港城（华润万家）3楼（华润万家）",
+        "distance": "9.4km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减2元"
+    },
+    {
+        "id": "16809",
+        "title": "百盛国际影城",
+        "price": "23",
+        "location": "宝安区松岗街道溪头社区沙江路136号三楼",
+        "distance": "9.9km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "vipTag": "折扣卡"
+            },
+            {
+                "hallType": "巨幕厅"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减2元"
+    },
+    {
+        "id": "25565",
+        "title": "中影德金影城（松岗店）",
+        "price": "25",
+        "location": "宝安区107国道松岗路段百佳华商场五楼",
+        "distance": "9.9km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "28106",
+        "title": "中影嘉纳巨幕影城（鹤洲店）",
+        "price": null,
+        "location": "宝安区航城街道鹤洲社区洲石路727号727科技创新园",
+        "distance": "10km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减4元"
+    },
+    {
+        "id": "16129",
+        "title": "百线国际影城中国巨幕（松岗店）",
+        "price": "38",
+        "location": "宝安区松岗镇东方大道联投东方park三楼",
+        "distance": "10km",
+        "lable": [{
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            },
+            {
+                "hallType": "CGS中国巨幕厅"
+            },
+            {
+                "hallType": "杜比全景声厅"
+            },
+            {
+                "hallType": "巨幕厅"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减4元"
+    },
+    {
+        "id": "27922",
+        "title": "中影南方鹤洲影城（和健生活广场店）",
+        "price": "33",
+        "location": "宝安区深圳润科华府1期和健生活广场1楼",
+        "distance": "10.4km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "16897",
+        "title": "美视国际影城（4K沉浸音）",
+        "price": "33",
+        "location": "宝安区西乡街道前进二路桃源居10区28栋（人人乐超市二楼）",
+        "distance": "11km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减4元"
+    },
+    {
+        "id": "16700",
+        "title": "宝影国际影城（公明店）",
+        "price": "23",
+        "location": "宝安区公民街道玉律社区玉泉东路20-1号南海大厦四楼A区",
+        "distance": "11.4km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "28593",
+        "title": "博纳国际影城（深圳领航店）",
+        "price": "34",
+        "location": "宝安区航城街道三围社区航城里购物中心3楼",
+        "distance": "11.4km",
+        "lable": [{
+                "snack": "小吃"
+            },
+            {
+                "hallType": "杜比全景声厅"
+            },
+            {
+                "hallType": "DTS:X 临境音厅"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "16329",
+        "title": "橙天国际影城（田寮店）",
+        "price": "31",
+        "location": "光明区田富路28号A栋亿华购物广场3层",
+        "distance": "11.8km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减2元"
+    },
+    {
+        "id": "25431",
+        "title": "明星国际影城（宝安店）",
+        "price": "33",
+        "location": "宝安区西乡街道固戍二路万力华大厦一楼",
+        "distance": "11.8km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "16139",
+        "title": "集鸿发国际影城（田寮店）",
+        "price": "33",
+        "location": "宝安区光明新区公明街道田寮路3号炜东城商场三楼",
+        "distance": "12.1km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "7555",
+        "title": "嘉乐国际影城（固戍店）",
+        "price": "18",
+        "location": "宝安区西乡固戍村固戍一路置富广场一楼",
+        "distance": "12.5km",
+        "lable": [{
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减2元"
+    },
+    {
+        "id": "15592",
+        "title": "非凡数字影城",
+        "price": "33",
+        "location": "宝安区石岩街道塘头大道39号一楼（邮政银行旁）",
+        "distance": "13km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减2元"
+    },
+    {
+        "id": "17079",
+        "title": "金逸影城（嘉域店）",
+        "price": "25",
+        "location": "宝安区公明街道松白路宏发嘉域花园一期商业裙楼2层",
+        "distance": "13.1km",
+        "lable": [{
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减4元"
+    },
+    {
+        "id": "15475",
+        "title": "万厅国际影城（石岩分店）",
+        "price": null,
+        "location": "宝安区石岩街道塘头大道东海百货二楼",
+        "distance": "13.1km",
+        "lable": [{
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减2元"
+    },
+    {
+        "id": "14698",
+        "title": "中影影派影城（长圳店）",
+        "price": null,
+        "location": "宝安区长圳路长圳商业中心商务大厦3楼",
+        "distance": "13.4km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减2元"
+    },
+    {
+        "id": "25030",
+        "title": "华纳国际影城",
+        "price": "28",
+        "location": "宝安区松岗街道燕川社区燕罗公路62号1号铺位二楼",
+        "distance": "13.4km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "17317",
+        "title": "期遇•UUE巨幕影城（公明店）",
+        "price": "22.9",
+        "location": "光明区公明街道合水口马田北路31号新天地购物广场3楼",
+        "distance": "13.7km",
+        "lable": [{
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            },
+            {
+                "hallType": "巨幕厅"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减4元"
+    },
+    {
+        "id": "13869",
+        "title": "万厅国际影城公明店",
+        "price": null,
+        "location": "宝安区光明新区公明街道合水口社区松白路中泰大厦三楼",
+        "distance": "13.7km",
+        "lable": [{
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减2元"
+    },
+    {
+        "id": "28030",
+        "title": "金逸影城IMAX（光明大仟里店）",
+        "price": "40",
+        "location": "光明区马田街道合水口社区松白路4699号大仟里4楼",
+        "distance": "13.8km",
+        "lable": [{
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            },
+            {
+                "hallType": "IMAX厅"
+            },
+            {
+                "hallType": "杜比全景声厅"
+            },
+            {
+                "hallType": "巨幕厅"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单2张最高立减4元"
+    },
+    {
+        "id": "67",
+        "title": "公明百誉（公明店）",
+        "price": "33",
+        "location": "宝安区公明街道宝安路欧氏堡三楼（友谊书城旁）",
+        "distance": "13.8km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减2元"
+    },
+    {
+        "id": "15799",
+        "title": "中影德金影城（西乡店）",
+        "price": "35",
+        "location": "宝安区宝民二路和宝民一路交汇处缤纷时代购物中心一楼",
+        "distance": "14km",
+        "lable": [{
+                "allowRefund": "退"
+            },
+            {
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": null,
+        "discountText": null
+    },
+    {
+        "id": "2623",
+        "title": "新华银兴国际影城",
+        "price": "23",
+        "location": "宝安区西乡宝安大道与金海路交汇处金港华庭一栋三层（西乡客运站对面）",
+        "distance": "14.2km",
+        "lable": [{
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减2元"
+    },
+    {
+        "id": "108",
+        "title": "大地影院（宏发大世界店）",
+        "price": "24",
+        "location": "宝安区石岩宝石南路与青年路交汇处宏发购物广场二期5楼",
+        "distance": "14.2km",
+        "lable": [{
+                "endorse": "改签"
+            },
+            {
+                "snack": "小吃"
+            },
+            {
+                "vipTag": "折扣卡"
+            }
+        ],
+        "img": "file://p1.meituan.net/scarlett/ff1c6e33ed0ac3cd862910a83d4bf959583.png",
+        "discountText": "开卡特惠，首单1张最高立减10元"
+    }
+]
